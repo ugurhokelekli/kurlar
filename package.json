@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "xml2json": "^0.12.0"
+  }
+}
